@@ -1,7 +1,4 @@
-package org.lsmy.cloud.common.util;
-
 import org.apache.commons.codec.digest.DigestUtils;
-
 /**
  * MD5工具类
  * 
