@@ -1,5 +1,3 @@
-package org.lsmy.cloud.common.util;
-
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidKeyException;
