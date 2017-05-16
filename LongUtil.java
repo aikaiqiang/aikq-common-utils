@@ -1,5 +1,3 @@
-package org.lsmy.cloud.common.util;
-
 public class LongUtil {
 	
 	public static boolean isZero(Long value)
