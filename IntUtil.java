@@ -1,5 +1,3 @@
-package org.lsmy.cloud.common.util;
-
 import java.util.regex.Pattern;
 
 public class IntUtil {
