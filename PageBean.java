@@ -1,5 +1,3 @@
-package org.lsmy.cloud.common.util;
-
 public class PageBean {
 	private int currentPage = 1;// 当前页数
 
